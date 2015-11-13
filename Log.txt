@@ -1,0 +1,28 @@
+11/12/2015 05:56PM : Program Input: ab
+Words found in the dictionary: 
+
+--------------------------------------------------
+11/12/2015 05:57PM : Program Input: abb
+Words found in the dictionary: 
+
+--------------------------------------------------
+11/12/2015 05:57PM : Program Input: abac
+Words found in the dictionary: 
+
+--------------------------------------------------
+11/12/2015 06:01PM : Program Input: abc
+Words found in the dictionary: 
+
+abc
+cab
+--------------------------------------------------
+11/12/2015 06:01PM : Program Input: abj
+Words found in the dictionary: 
+
+jab
+--------------------------------------------------
+11/12/2015 06:01PM : Program Input: backa
+Words found in the dictionary: 
+
+aback
+--------------------------------------------------
